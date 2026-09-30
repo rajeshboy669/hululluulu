@@ -28,7 +28,7 @@ BOT_START_TIME = datetime.now()
 
 # ============= CONFIG =============
 BOT_TOKEN = os.environ.get('BOT_TOKEN', "8771905727:AAHme-PnJS4FWB4ickcIkjDbFMuDVpGz-9U")
-BOT_OWNER = int(os.environ.get('BOT_OWNER', 1987818347))
+BOT_OWNER = int(os.environ.get('BOT_OWNER', 8574580595))
 BOT_OWNER_STR = str(BOT_OWNER)
 
 BOT_NAME = "˹𝚩𝖊𝐒𝖙𝐂𝖍𝖊𝖆𝐓 ✘ 𝙳𝐃𝙾𝚂 𝙾𝙉𝙸𝚇˼ ♪"
